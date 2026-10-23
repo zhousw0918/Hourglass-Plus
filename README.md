@@ -45,6 +45,10 @@ Run the examples from the `build` directory.
 
 See [bench/benchmark.md](bench/benchmark.md).
 
+## License
+
+Hourglass+ is released under the GNU General Public License v3.0. See [LICENSE](LICENSE).
+
 ## Third-party code
 
 - `roaring.c` and `roaring.h` are from CRoaring (Apache License 2.0).
